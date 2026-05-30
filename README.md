@@ -5,8 +5,12 @@
 
 <div align="center">
 
-<!-- LOGO via shields.io — no file upload needed -->
-![Logo](https://img.shields.io/badge/ن-NOKHBA_CLOUD-d11515?style=for-the-badge&labelColor=000000&logoColor=white&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMCAyMCI+PHRleHQgeT0iMTUiIGZvbnQtc2l6ZT0iMTYiIGZpbGw9IndoaXRlIj7Yug==)
+<!-- LOGO — dark/light responsive -->
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/nokhbacloud/NokhbaCloud/main/assets/nokhba_logo_white.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nokhbacloud/NokhbaCloud/main/assets/nokhba_logo_dark.png">
+  <img src="https://raw.githubusercontent.com/nokhbacloud/NokhbaCloud/main/assets/nokhba_logo_dark.png" width="200" alt="Nokhba Cloud" />
+</picture>
 
 <br/>
 
